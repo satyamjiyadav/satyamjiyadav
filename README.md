@@ -1,5 +1,5 @@
 
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://satyamjiyadav.io)
+[![MasterHead]([https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png](https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#page=3&query=coding%20banner&position=27&from_view=keyword&track=ais))](https://satyamjiyadav.io)
 <h1 align="center">Hi 👋, I'm Satyam Yadav</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamjiyadav&label=Profile%20views&color=0e75b6&style=flat" alt="satyamjiyadav" /> </p>
